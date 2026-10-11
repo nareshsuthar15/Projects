@@ -1,0 +1,10 @@
+
+.streamlit/secrets.toml
+.env
+__pycache__/
+*.pyc
+tempCodeRunnerFile.py
+# Large model files
+backend/similarity.pkl
+
+similarity.pkl
